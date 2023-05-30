@@ -1,3 +1,4 @@
+![Argo DevOps Logo](file://./logo.jpg)
 # Argo DevOps Solutions Ltd
 Welcome to our GitHub area. Please have alook around and, if you have any queries let us know at [info@argodevops.co.uk](mailto:info@argodevops.co.uk)
 ## Who are we
