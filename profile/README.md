@@ -1,9 +1,25 @@
 ![Argo DevOps Logo](https://github.com/argodevops/.github/raw/main/images/logo.jpg)
 # Argo DevOps Solutions Ltd
 Welcome to our GitHub area. Please have alook around and, if you have any queries let us know at [info@argodevops.co.uk](mailto:info@argodevops.co.uk)
-## Who are we
-We are an agile delivery partner. Offering development of complex systems utilising both software and infrastructure as code tools to get value out to our customers quickly, and with the right level of quality.
 
-As a Silver award holder of the Armed forces covenant, we believe that we provide a great place to work. Providing space to innovate and have alot of self empowerment through the development process.
-## Find out more
+## Who We Are
+Argo DevOps Solutions is an established UK-based technology company working in the Cyber and Cloud space.
+
+We specialize in developing powerful software solutions that are secure, scalable, and sustainable. Our expertise lies in delivering tangible value to our customers, facilitating the rapid delivery of high-quality products.
+
+We create impactful software that brings about positive change.
+
+As proud recipients of the Silver award of the Armed Forces Covenant, we are committed to providing an exceptional work environment. Our organization offers ample opportunities for innovation, empowering individuals to take ownership and excel throughout the development process.
+
+## Technical Skills
+Our team possesses a diverse skill set encompassing software development, automated testing, and infrastructure as code. We bring a wide range of expertise to deliver comprehensive solutions in these areas.
+
+## Service Offerings
+
+## Careers
+
+Contact us through https://www.argodevops.co.uk/contact-us
+
+## Open Source Software
+
 Coming soon.
