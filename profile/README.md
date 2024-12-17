@@ -1,6 +1,6 @@
 ![Argo DevOps Logo](https://github.com/argodevops/.github/raw/main/images/logo.jpg)
 # Argo DevOps Solutions Ltd
-Welcome to our GitHub area. Please have alook around and, if you have any queries let us know at [info@argodevops.co.uk](mailto:info@argodevops.co.uk)
+Welcome to our GitHub area. Please have alook around and, if you have any queries let us know at [enquiry@argodevops.co.uk](mailto:enquiry@argodevops.co.uk)
 
 ## Who We Are
 At Argo DevOps Solutions Ltd, we specialize in developing powerful, secure, scalable, and sustainable technical solutions. 
